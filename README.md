@@ -139,7 +139,7 @@ Once your daemon is synced with the network start your turtle-service and redis-
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-git clone https://github.com/turtlecoin/turtle-pool pool
+git clone https://github.com/Arogon-project/arogon-pool pool
 cd pool
 npm update
 ```
