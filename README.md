@@ -132,7 +132,7 @@ I have found using a screen session to keep everything running on the server wor
 
 Grab your most recent TurtleCoin release (https://github.com/turtlecoin/turtlecoin/releases/) then launch your daemon and sync your chain.
 
-Once your daemon is synced with the network start your turtle-service and redis-server.
+Once your daemon is synced with the network start your arogon-service and redis-server.
 
 #### 1) Downloading & Installing
 
